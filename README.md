@@ -1,6 +1,7 @@
 # biodiversity
-In this project, data from the National Parks Service about endangered species in different parks will be intepreted.
 
-For this, I will perform some data analysis on the conservation statuses of these species and investigate if there are any patterns or themes to the types of species that become endangered. 
+In this project, I will interpret data obtained from the National Parks Service concerning endangered species across different parks.
 
-During this project, I will analyze, clean up, and plot data as well as pose questions and seek to answer them in a meaningful way.
+I will conduct a thorough analysis of the conservation statuses of these species, exploring patterns related to the types of species that face endangerment.
+
+Throughout the project, my tasks will include analyzing, cleaning up, and visualizing data, along with formulating questions and striving to provide meaningful answers.
